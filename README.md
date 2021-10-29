@@ -4,7 +4,7 @@
 ### Papers
 ##### 1. Context R-CNN: Long Term Temporal Context for Per-Camera Object Detection Sara [CVPR 2020] [paper link](https://arxiv.org/abs/1912.03538)
 
-
+====================================================================================================================================================================
 ### Datasets
 #### 1.[Snapshot Serengeti](https://lila.science/datasets/snapshot-serengeti/): This data set contains approximately 2.65M sequences of camera trap images, totaling 7.1M images
 #### 2.[Caltech Cam- era Traps (CCT)](https://beerys.github.io/CaltechCameraTraps/): The dataset contains 243,187 images from 140 camera locations.
